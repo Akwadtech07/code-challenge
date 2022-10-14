@@ -1,0 +1,16 @@
+C:\Users\USER\OneDrive\Desktop\code challenge sgas\bin\Debug\net5.0\code challenge sgas.exe
+C:\Users\USER\OneDrive\Desktop\code challenge sgas\bin\Debug\net5.0\code challenge sgas.deps.json
+C:\Users\USER\OneDrive\Desktop\code challenge sgas\bin\Debug\net5.0\code challenge sgas.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\code challenge sgas\bin\Debug\net5.0\code challenge sgas.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Desktop\code challenge sgas\bin\Debug\net5.0\code challenge sgas.dll
+C:\Users\USER\OneDrive\Desktop\code challenge sgas\bin\Debug\net5.0\ref\code challenge sgas.dll
+C:\Users\USER\OneDrive\Desktop\code challenge sgas\bin\Debug\net5.0\code challenge sgas.pdb
+C:\Users\USER\OneDrive\Desktop\code challenge sgas\obj\Debug\net5.0\code challenge sgas.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\code challenge sgas\obj\Debug\net5.0\code challenge sgas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\code challenge sgas\obj\Debug\net5.0\code challenge sgas.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\code challenge sgas\obj\Debug\net5.0\code challenge sgas.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\code challenge sgas\obj\Debug\net5.0\code challenge sgas.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\code challenge sgas\obj\Debug\net5.0\code challenge sgas.dll
+C:\Users\USER\OneDrive\Desktop\code challenge sgas\obj\Debug\net5.0\ref\code challenge sgas.dll
+C:\Users\USER\OneDrive\Desktop\code challenge sgas\obj\Debug\net5.0\code challenge sgas.pdb
+C:\Users\USER\OneDrive\Desktop\code challenge sgas\obj\Debug\net5.0\code challenge sgas.genruntimeconfig.cache
